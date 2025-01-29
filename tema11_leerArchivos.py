@@ -5,3 +5,4 @@ texto1=fichero.readline()
 print(texto1)
 print(type(texto1))
 fichero.close()
+
